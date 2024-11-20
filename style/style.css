@@ -37,11 +37,9 @@
                 text-align: center;
                 line-height: 40px;
 }
-.btn{
-
-                
+.btn{     
                 background: rgb(82, 195, 3);     
-                border-color:rgb(82, 195, 3);
+                border: rgb(82, 195, 3);
                 border-radius: 8px;
                 padding:10px 16px;
                 font-size: 12px;
@@ -51,3 +49,5 @@
 
 
 }
+
+/* another section start */
