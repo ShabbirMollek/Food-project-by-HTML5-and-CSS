@@ -92,3 +92,26 @@
 .content img{
                 height:260px;
 }
+
+/* new section start */
+
+.second-div{
+                margin-top: 120px;
+                display: flex;
+                align-items: center;
+                gap: 80px;
+                
+                
+}
+.second-div img{
+                width:650px;
+                height: 320px;
+}
+.second-div-content{
+
+                text-align: center;
+}
+.second-div-content p{
+                color: gray;
+                margin-top: 10px;
+}
