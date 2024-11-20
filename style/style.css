@@ -51,7 +51,7 @@
 
 }
 
-/* another section start */
+/* another section  style start */
 
 .main-div{
 
@@ -93,7 +93,7 @@
                 height:260px;
 }
 
-/* new section start */
+/* new section style start */
 
 .second-div{
                 margin-top: 120px;
@@ -114,4 +114,42 @@
 .second-div-content p{
                 color: gray;
                 margin-top: 10px;
+}
+
+
+/* footer section style start */
+
+
+
+.footer{
+                margin-top: 120px;
+                display: flex;
+                flex-direction: column;
+                gap: 24px;
+                align-items: center;
+                text-align: center;
+}
+
+.footer h1{
+                margin-bottom: 12px;
+}
+.footer p{
+                color: gray;
+                margin-bottom: 40px;
+}
+.footer h3{
+                margin-top: 24px;
+                margin-bottom: 24px;
+}
+.footer-icon {
+                display: flex;
+                gap: 15px;
+                align-items: center;
+                justify-content: center;
+                margin-bottom: 140px;
+                margin-top: 60px;
+}
+
+.footer-icon img{
+                height: 30px;
 }
